@@ -1,0 +1,37 @@
+#center{
+	width: 720px;
+	height: 580px;
+	margin: 40px auto;
+	background-color: white;
+	box-shadow: 0 0 12px 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.form-group{
+	width: 50%;
+	margin-left: 150px;
+	margin-top: 20px;
+}
+
+.addbank{
+	margin-left: 100px;
+}
+
+#deletebank{
+  display: flex;
+  align-items: flex-start;
+}
+
+#buttons{
+  display: flex;
+  align-items: flex-start;
+}
+
+.btn-warning{
+	margin-left: 180px;
+}
+
+.btn-success{
+	margin-left: 20px;
+}
